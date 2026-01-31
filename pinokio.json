@@ -1,0 +1,16 @@
+{
+  "title": "DreamID-V",
+  "description": "",
+  "icon": "icon.png",
+  "links": [
+    {
+      "title": "github",
+      "value": "https://github.com/bytedance"
+    },
+    {
+      "title": "website",
+      "value": "https://github.com/bytedance/DreamID-V"
+    }
+  ],
+  "posts": []
+}

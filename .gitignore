@@ -1,0 +1,12 @@
+node_modules
+.DS_Store
+env/
+app/env/
+bin/
+cache/
+logs/
+checkpoints/
+diffusion_pytorch_model.safetensors
+models_t5_umt5-xxl-enc-bf16.pth
+dreamidv.pth
+dreamidv_faster.pth

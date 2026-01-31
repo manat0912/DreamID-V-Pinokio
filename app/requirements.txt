@@ -1,0 +1,16 @@
+opencv-python>=4.9.0.80
+diffusers==0.35.2
+transformers==4.49.0
+tokenizers
+accelerate
+tqdm
+imageio
+onnxruntime-gpu
+easydict
+ftfy
+dashscope
+imageio-ffmpeg
+xfuser==0.4.4
+mediapipe==0.10.5
+gradio
+decord
